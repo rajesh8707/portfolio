@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "typed.js": "^2.1.0"
+    "aos": "^2.3.4"
   }
 }
